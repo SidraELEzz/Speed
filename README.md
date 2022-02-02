@@ -58,7 +58,7 @@ $ git clone https://github.com/SidraELEzz/Speed-Fira
 ```
 #### RUN SCRIPT
 ```bash
-$ cd Speed
+$ cd Speed-Fira
 $ bash tools.sh
 ```
 
