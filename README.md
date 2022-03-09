@@ -1,4 +1,4 @@
-<h1 align="center">Speed-Fira</h1>
+<h1 align="center">Speed</h1>
 <p align="center">Fira Points Collection Script Unlimited Pooling Script</p>
 
 
